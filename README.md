@@ -10,7 +10,7 @@ This project provides a script for processing `.vsi` image files, extracting rel
 .
 ├── convert_vsi_to_png.sh       # Main script for processing `.vsi` files
 ├── vsi/                        # Directory containing `.vsi` files to process
-├── output_relevant/            # Directory where processed images are saved
+├── png/            # Directory where processed images are saved
 ├── logs/                       # Directory where logs are stored
 ├── bftools/                    # Directory containing Bio-Formats tools
 │   ├── bioformats_package.jar  # Bio-Formats main library
